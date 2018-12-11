@@ -1,0 +1,2 @@
+# botku20
+bot
